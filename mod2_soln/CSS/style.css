@@ -62,7 +62,7 @@ p {
 }
 /****mobile view****/
 @media (max-width: 767px){
-#b1 #b2 #b3{
+#b1 ,#b2 ,#b3{
 	width: 90%;
 	}
 }
