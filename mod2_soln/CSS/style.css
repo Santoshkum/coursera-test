@@ -34,7 +34,9 @@ h2 {
 	background-color: #00FFFF;
 	color: #006400;
 }
-
+p {
+	font-size: 1em;
+}
 .box {
 	border: 3px solid black;
 	margin: 1.15%;
